@@ -1,0 +1,9 @@
+name = "prox"
+main = "src/index.tsx"
+compatibility_date = "2023-08-04"
+route = "prox.gmad.dev"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "prox"
+database_id = "c2d0b225-6080-48b9-b829-58db22d70da6"
